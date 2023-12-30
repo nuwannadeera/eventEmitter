@@ -1,3 +1,4 @@
 # EventEmitter
  this is a sample project that how to use evemtemitter in angular components
-https://github.com/nuwannadeera/eventEmitter/edit/main/README.md
+ read more----
+https://www.telerik.com/blogs/angular-basics-how-to-use-event-emitter-examples)https://www.telerik.com/blogs/angular-basics-how-to-use-event-emitter-examples
